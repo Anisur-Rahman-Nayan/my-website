@@ -1,0 +1,72 @@
+.name{
+    color: greenyellow;
+    font-size: 250%;
+   
+}
+.colour{
+    color: gray;
+}
+.pading{
+    float: left;
+    padding: 50px 90px;
+}
+a{
+    color: honeydew;
+    background-color: tomato;
+    text-decoration: none;
+    padding: 1%;
+    border-radius: 3px;
+}
+.p{
+   background-image: url("img/header-bg.png");
+   background-repeat: no-repeat;
+}
+section{
+   height: 500px;
+}
+#m{
+ width: 500px;
+}
+.b{
+   background-image: url("img/biography-bg.png");
+}
+.n{
+background-image: url("img/latest-work-bg.png");
+text-align: center;
+}
+.s{
+float: left;
+
+}
+.o{
+text-align: center;
+font-size: 220%;
+}
+.u{
+padding-left: 10%;
+}
+.q{
+text-align: center;
+}
+.l{
+text-align: center;
+color: gray;
+}
+.w{
+background-color: tomato;
+color: wheat;
+padding: 10px;
+text-align: center;
+border-radius: 5px;
+height: 25%;
+width: 50%;
+font-size: 130%;
+margin-left: 350px;
+}
+#z{
+width: 30%;
+padding-left: 15%;
+}
+#d{
+font-size: 40px;
+}
